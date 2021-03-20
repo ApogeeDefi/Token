@@ -270,8 +270,7 @@ h4, .h4 {
     .navtop a {
         float: none;
         display: inline;
-        text-align: center;
-        padding: 120px;
+        padding: 0px 120px 0px 120px;
         text-decoration: none;
     }
 
